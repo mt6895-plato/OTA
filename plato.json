@@ -1,14 +1,22 @@
 {
     "response": [
         {
-            "datetime": "1783860377",
-            "filename": "PixelOS_plato-16.2-20260712-1246.zip",
-            "id": "00b0448fb3d9ab18889ba942c2d03018",
-            "size": "2494822859",
-            "url": "https://https://download.sourceforge.net/project/archcloudy-roms/PixelOS/PixelOS_plato-16.2-20260712-1246/PixelOS_plato-16.2-20260712-1246.zip",
-            "version": "16"
+            "datetime": "1784650949",
+            "filename": "PixelOS_plato-16.2-20260721-1623.zip",
+            "id": "7e07fdcb34f445c0569f84a055b493cb0699f546c40e5a85571f4ad30ea54594",
+            "size": "2498509240",
+            "url": "https://download.sourceforge.net/project/archcloudy-roms/PixelOS/PixelOS_plato-16.2-20260721-1623/PixelOS_plato-16.2-20260721-1623.zip",
+            "version": "16",
+            "stream": true,
+            "payload": [
+                {
+                    "offset": 4911,
+                    "FILE_HASH": "LXKO50rcug8ch/7YzJ3NH226NWbm5jixvJkAr7agWv8=",
+                    "FILE_SIZE": "2498501112",
+                    "METADATA_HASH": "Zhg8i5fWXjnui/REMxmqX8HtVRDzSV4wXspVSet5pBU=",
+                    "METADATA_SIZE": "176596"
+                }
+            ]
         }
     ]
-    
-
 }
