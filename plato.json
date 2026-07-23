@@ -16,7 +16,7 @@
         "url": "https://github.com/mt6895-plato/OTA/releases/download/lineage-23.2-20260723/lineage-23.2-20260723-UNOFFICIAL-plato.zip"
       }
     ],
-    "type": "nightly",
+    "type": "unofficial",
     "version": "23.2"
   }
 ]

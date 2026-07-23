@@ -1,4 +1,5 @@
 # [07/23/2026]
+- Sync with LineageOS manifest
 - Included LK Fenrir exploit (thx @ChrisCatto!)
 - Match BuildFingerprint with stock so it'll pass strong integrity
 - Enabled A/B Stream Update
