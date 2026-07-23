@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2026-07-23",
+    "datetime": 1784803651,
+    "files": [
+      {
+        "date": "2026-07-23",
+        "datetime": 1784803651,
+        "filename": "lineage-23.2-20260723-UNOFFICIAL-plato.zip",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:5158:194143,payload.bin:5158:1542651919,payload_properties.txt:1542657135:156,apex_info.pb:2390:1349,care_map.pb:3786:1325,metadata:69:689,metadata.pb:826:1516",
+        "sha256": "c4cdb76d92e6485971082ee6e8f8b7c7ae1cc040902b5bb012e07ab822ff93aa",
+        "size": 1542660294,
+        "type": "nightly",
+        "url": "https://github.com/mt6895-plato/OTA/releases/download/lineage-23.2-20260723/lineage-23.2-20260723-UNOFFICIAL-plato.zip"
+      }
+    ],
+    "type": "nightly",
+    "version": "23.2"
+  }
+]
