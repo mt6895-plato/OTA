@@ -1,3 +1,7 @@
+# [08/13/2026]
+- Included Dolby Atmos Support
+- Addressing couple of SEPolicy denials
+
 # [07/21/2026]
 - Included LK Fenrir exploit (thx @ChrisCatto!)
 - Match BuildFingerprint with stock so it'll pass strong integrity
