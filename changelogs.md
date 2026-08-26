@@ -1,3 +1,10 @@
+# [08/26/2026]
+- Sync with LineageOS manifest
+- Build WlanAssistant Daemon from source
+- Opt into legacy udfps enroll ui
+- Inherit DolbyAtmos Support
+- Addressed couple of SEPolicy denials
+
 # [07/23/2026]
 - Sync with LineageOS manifest
 - Included LK Fenrir exploit (thx @ChrisCatto!)
