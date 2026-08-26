@@ -1,3 +1,7 @@
+# [08/26/2026]
+- Build WlanAssistant daemon from source
+- Opt into legacy udfps enroll UI
+
 # [08/17/2026]
 - Imported Dolby Atmos blobs that were missing from previous build (08/13/2026)
 - Also fixes where PixelOS would start randomly rebooting by itself (Caused by DolbyAtmos crashing)
