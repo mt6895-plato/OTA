@@ -1,3 +1,12 @@
+# [10/23/2026]
+- [PixelOS October 2026 Update](https://blog.pixelos.net/blogs/2026-10-19-October-Update) - Certificate removals and blocklist fix included (10/22/2026) 
+- Upgrade kernel to 5.10.272
+- Introduce Bluetooth A2DP Offload Support
+- Switch to lineage fork of displayservice HIDL
+- Enable MML support
+- Commonize mediatek HIDL audio service
+- Build mtkradioex and netdagent from source
+
 # [10/05/2026]
 - Update blobs from OS2.0.217.0.VLQMIXM
 - Update MSSI IMS stack from Pacman B4.1-260813-0941
