@@ -1,3 +1,8 @@
+# [11/14/2026]
+- [PixelOS November 2026 Update](https://blog.pixelos.net/blogs/2026-11-09-November-Update)
+- Synced MT6895 Kernel source from LineageOS
+- Removed CIT
+
 # [10/23/2026]
 - [PixelOS October 2026 Update](https://blog.pixelos.net/blogs/2026-10-19-October-Update) - Certificate removals and blocklist fix included (10/22/2026) 
 - Upgrade kernel to 5.10.272

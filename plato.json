@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1792786711,
+    "datetime": 1794641375,
     "files": [
       {
-        "filename": "PixelOS_plato-17.0-20261023-2018.zip",
-        "os_patch_level": "2026-10-01",
+        "filename": "PixelOS_plato-17.0-20261114-0731.zip",
+        "os_patch_level": "2026-11-01",
         "os_sdk_level": 37,
-        "sha256": "22a1c4eb3d3c7b2b749392db9a62c3a017c9640bb3e4d99bf2771a52b155b0a0",
-        "size": 2865516393,
-        "url": "https://download.sourceforge.net/project/archcloudy-roms/PixelOS-17/plato/PixelOS_plato-17.0-20261023-2018/PixelOS_plato-17.0-20261023-2018.zip",
-        "ota_property_files": "payload_metadata.bin:5060:191858,payload.bin:5060:2865508116,payload_properties.txt:2865513234:156,apex_info.pb:2381:1487,care_map.pb:3915:1098,metadata:69:689,metadata.pb:826:1507                        "
+        "sha256": "f23bb6231c7552e677fe1ee2ff4938e9f181a08c7568d99c368a0d9ff0c5db11",
+        "size": 2839267587,
+        "url": "https://download.sourceforge.net/project/archcloudy-roms/PixelOS-17/plato/PixelOS_plato-17.0-20261023-2018/PixelOS_plato-17.0-20261114-0731.zip",
+        "ota_property_files": "payload_metadata.bin:5046:190555,payload.bin:5046:2839259324,payload_properties.txt:2839264428:156,apex_info.pb:2381:1487,care_map.pb:3915:1084,metadata:69:689,metadata.pb:826:1507                        "
       }
     ],
     "type": "ci",
