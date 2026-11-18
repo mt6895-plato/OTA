@@ -8,7 +8,7 @@
         "os_sdk_level": 37,
         "sha256": "f23bb6231c7552e677fe1ee2ff4938e9f181a08c7568d99c368a0d9ff0c5db11",
         "size": 2839267587,
-        "url": "https://download.sourceforge.net/project/archcloudy-roms/PixelOS-17/plato/PixelOS_plato-17.0-20261023-2018/PixelOS_plato-17.0-20261114-0731.zip",
+        "url": "https://download.sourceforge.net/project/archcloudy-roms/PixelOS-17/plato/PixelOS_plato-17.0-20261114-0731/PixelOS_plato-17.0-20261114-0731.zip",
         "ota_property_files": "payload_metadata.bin:5046:190555,payload.bin:5046:2839259324,payload_properties.txt:2839264428:156,apex_info.pb:2381:1487,care_map.pb:3915:1084,metadata:69:689,metadata.pb:826:1507                        "
       }
     ],
